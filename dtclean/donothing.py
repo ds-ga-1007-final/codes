@@ -7,4 +7,5 @@ import pandas as pd
 import numpy as np
 
 
-DF = pd.DataFrame()
+def donothingClean(input_dataframe):
+    print input_dataframe
