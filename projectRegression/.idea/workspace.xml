@@ -23,14 +23,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="regression.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="regression.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.88495576" vertical-offset="255" max-vertical-offset="885">
-              <caret line="37" column="44" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="795">
+              <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
               <folding>
-                <element signature="e#22#54#0" expanded="true" />
+                <element signature="e#23#62#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="regression_main.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/regression_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.29829547" vertical-offset="0" max-vertical-offset="352">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -58,12 +68,14 @@
         <option value="$PROJECT_DIR$/regression" />
         <option value="$PROJECT_DIR$/../../../Data_Science/Project/1001Project/multivaraite_regression.py" />
         <option value="$PROJECT_DIR$/data_clean.py" />
+        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/regression.py" />
+        <option value="$PROJECT_DIR$/regression_main.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="401" />
+    <option name="x" value="101" />
     <option name="y" value="23" />
     <option name="width" value="1158" />
     <option name="height" value="730" />
@@ -121,6 +133,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Data_Science/Project/1001Project/multivaraite_regression.py" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -360,7 +376,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="401" y="23" width="1158" height="730" extended-state="0" />
+    <frame x="101" y="23" width="1158" height="730" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -409,7 +425,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="885" max-vertical-offset="1170">
           <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
           <folding>
-            <element signature="e#22#54#0" expanded="true" />
+            <element signature="e#23#62#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -454,11 +470,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.88495576" vertical-offset="255" max-vertical-offset="885">
-          <caret line="37" column="44" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="795">
+          <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
           <folding>
-            <element signature="e#22#54#0" expanded="true" />
+            <element signature="e#23#62#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regression_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29829547" vertical-offset="0" max-vertical-offset="352">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
